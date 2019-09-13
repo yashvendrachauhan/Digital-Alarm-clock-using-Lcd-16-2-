@@ -9,6 +9,6 @@ REQUIREMENTS :-
 4.        10k resister        4.00 indian rupees
 5.        3 tactile switch    6 indian rupees
 6.        3v and 9v battery   30 rupees
-and some jumpber wire
+and some jumper wire
 
 A total of 600 indian rupees arround 9-10 USD is required to make this project
