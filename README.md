@@ -8,7 +8,7 @@ REQUIREMENTS :-
 3.        LCD 16*2            120 indian rupees
 4.        10k resister        4.00 indian rupees
 5.        3 tactile switch    6 indian rupees
-6.        3v and 9v battery   30 rupees
+6.        3v and 9v battery   30 indian rupees
 and some jumper wire
 
 A total of 600 indian rupees arround 9-10 USD is required to make this project
